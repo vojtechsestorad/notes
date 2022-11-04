@@ -1,2 +1,0 @@
-#people
-# Linus Torvalds
