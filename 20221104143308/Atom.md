@@ -5,3 +5,5 @@ initial release 2014
 runs on: [[macOS]], [[Linux]] and [[Windows]]
 developed by [[GitHub]]
 based on [[Electron]]
+
+## dicontinued
