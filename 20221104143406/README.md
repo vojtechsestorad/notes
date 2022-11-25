@@ -1,2 +1,2 @@
 # concatenation
-= adding [[string]]s together
+= adding strings together

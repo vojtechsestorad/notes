@@ -1,2 +1,2 @@
 # language
-= a *structured* [[system]] of [[communication]]
+= a *structured* system of communication

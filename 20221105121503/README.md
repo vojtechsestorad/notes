@@ -1,5 +1,5 @@
-# high level [[programming language]]
-= less similar to [[machine code]]
+# high level programming language
+= less similar to machine code
 
-- [[Java]]
-- [[Python]]
+- Java
+- Python

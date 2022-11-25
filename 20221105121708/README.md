@@ -1,5 +1,5 @@
 # Python
-= a [[programming language]]
+= a programming language
 initial release 1991
 
 - constant

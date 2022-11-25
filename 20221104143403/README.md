@@ -1,9 +1,9 @@
 # computer language
-= [[formal language]] used in communication with a computer
+= formal language used in communication with a computer
 
-- [[programming language]]
-- [[query language]]
-- [[markup language]]
-- [[style sheet language]]
+- programming language
+- query language
+- markup language
+- style sheet language
 - 
 

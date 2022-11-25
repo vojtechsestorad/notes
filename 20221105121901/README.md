@@ -1,12 +1,12 @@
 # variable
 =
 
-[[variable]]s have a [[name]] and [[value]]
+variables have a name and value
 
 types:
-- [[integer]]
-- [[boolean]]
-- [[float]]
-- [[double]]
-- [[string]]
-- [[char]]
+- integer
+- boolean
+- float
+- double
+- string
+- char

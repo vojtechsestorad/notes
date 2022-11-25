@@ -2,9 +2,9 @@
 =
 
 list:
-* [[vultr]]
-* [[digital ocean]]
-* [[gcp]]
-* [[aws]]
-* [[linode]]
-* [[azure]]
+* vultr
+* digital ocean
+* gcp
+* aws
+* linode
+* azure

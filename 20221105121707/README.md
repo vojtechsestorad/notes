@@ -1,5 +1,5 @@
 # programming
-= designing/building *executable* [[software]]
+= designing/building *executable* software
 
 - interactive
-- [[script]]
+- script
